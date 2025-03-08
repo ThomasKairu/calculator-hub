@@ -1,0 +1,270 @@
+{
+  "Home": {
+    "title": "Calculator Hub",
+    "subtitle": "Your one-stop solution for all calculation needs",
+    "currencyConverter": "Currency Converter",
+    "currencyDescription": "Convert between different currencies with real-time exchange rates",
+    "unitConverter": "Unit Converter",
+    "unitDescription": "Convert between different units of measurement",
+    "mortgageCalculator": "Mortgage Calculator",
+    "mortgageDescription": "Calculate your monthly mortgage payments and total interest",
+    "bmiCalculator": "BMI Calculator",
+    "bmiDescription": "Calculate your Body Mass Index and check your weight category"
+  },
+  "Navigation": {
+    "home": "Home",
+    "about": "About",
+    "privacy": "Privacy",
+    "terms": "Terms"
+  },
+  "about": {
+    "title": "About Calculator Hub",
+    "subtitle": "Your trusted partner for all calculation needs",
+    "mission": {
+      "title": "Our Mission",
+      "description": "To provide accurate, reliable, and user-friendly calculation tools that make everyday computations effortless for everyone."
+    },
+    "features": {
+      "title": "Why Choose Us",
+      "list": {
+        "currency": {
+          "title": "Real-Time Currency Conversion",
+          "description": "Stay updated with the latest exchange rates and convert between multiple currencies instantly."
+        },
+        "unit": {
+          "title": "Comprehensive Unit Conversion",
+          "description": "Convert between various units of measurement with precision and ease."
+        },
+        "mortgage": {
+          "title": "Financial Planning Tools",
+          "description": "Make informed decisions with our mortgage and loan calculators."
+        },
+        "bmi": {
+          "title": "Health & Fitness",
+          "description": "Track your health metrics with our BMI calculator and get personalized insights."
+        }
+      }
+    },
+    "team": {
+      "title": "Our Team",
+      "description": "We are a dedicated team of developers and financial experts committed to providing you with the best calculation tools."
+    }
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "subtitle": "Your privacy is important to us",
+    "lastUpdated": "Last updated: March 7, 2024",
+    "introduction": {
+      "title": "Introduction",
+      "description": "This Privacy Policy explains how Calculator Hub collects, uses, and protects your personal information."
+    },
+    "dataCollection": {
+      "title": "Data Collection",
+      "description": "We collect minimal data to provide you with the best service possible.",
+      "list": {
+        "usage": "Usage data to improve our services",
+        "preferences": "Your preferences and settings",
+        "technical": "Technical information for service optimization"
+      }
+    },
+    "dataSecurity": {
+      "title": "Data Security",
+      "description": "We implement industry-standard security measures to protect your information."
+    },
+    "cookies": {
+      "title": "Cookie Policy",
+      "description": "We use cookies to enhance your experience and provide essential functionality."
+    },
+    "rights": {
+      "title": "Your Rights",
+      "description": "You have the right to access, modify, or delete your personal information at any time."
+    }
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "subtitle": "Please read these terms carefully",
+    "lastUpdated": "Last updated: March 7, 2024",
+    "agreement": {
+      "title": "User Agreement",
+      "description": "By using Calculator Hub, you agree to these terms and conditions."
+    },
+    "services": {
+      "title": "Our Services",
+      "description": "We provide various calculation tools including:",
+      "list": {
+        "currency": "Currency conversion with real-time rates",
+        "unit": "Unit conversion across multiple categories",
+        "financial": "Financial calculators for planning",
+        "health": "Health metric calculators"
+      }
+    },
+    "usage": {
+      "title": "Acceptable Use",
+      "description": "Guidelines for using our services:",
+      "list": {
+        "legal": "Use our services legally and responsibly",
+        "accurate": "Provide accurate information for calculations",
+        "responsible": "Use results responsibly and verify when needed"
+      }
+    },
+    "disclaimer": {
+      "title": "Disclaimer",
+      "description": "While we strive for accuracy, we cannot guarantee the precision of all calculations. Please verify important financial decisions with professionals."
+    },
+    "changes": {
+      "title": "Changes to Terms",
+      "description": "We may update these terms periodically. Continue using our services to accept any changes."
+    }
+  },
+  "Common": {
+    "calculate": "Calculate",
+    "reset": "Reset",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "required": "This field is required"
+  },
+  "bmi": {
+    "title": "BMI Calculator",
+    "description": "Calculate your Body Mass Index (BMI) to assess your weight category",
+    "form": {
+      "height": "Height",
+      "weight": "Weight",
+      "age": "Age",
+      "gender": "Gender",
+      "male": "Male",
+      "female": "Female",
+      "calculate": "Calculate BMI",
+      "heightMetric": "Height (cm)",
+      "heightImperial": "Height (inches)",
+      "weightMetric": "Weight (kg)",
+      "weightImperial": "Weight (lbs)",
+      "unit": "Unit System",
+      "units": {
+        "metric": "Metric (cm/kg)",
+        "imperial": "Imperial (in/lbs)"
+      },
+      "genders": {
+        "male": "Male",
+        "female": "Female"
+      }
+    },
+    "result": {
+      "title": "Your BMI Result",
+      "bmi": "Your BMI is: {bmi}",
+      "categories": {
+        "underweight": "Underweight (BMI < 18.5)",
+        "normal": "Normal Weight (BMI 18.5-24.9)",
+        "overweight": "Overweight (BMI 25-29.9)",
+        "obese": "Obese (BMI ≥ 30)"
+      },
+      "range": {
+        "title": "Healthy BMI Range",
+        "description": "For your height, a healthy weight range would be {min} to {max} BMI"
+      },
+      "recommendations": {
+        "title": "Health Recommendations"
+      }
+    }
+  },
+  "mortgageCalculator": {
+    "pageTitle": "Mortgage Calculator",
+    "pageDescription": "Plan your home loan with our comprehensive mortgage calculator",
+    "loanAmount": "Loan Amount ($)",
+    "interestRate": "Annual Interest Rate (%)",
+    "loanTerm": "Loan Term (years)",
+    "downPayment": "Down Payment ($)",
+    "propertyTax": "Annual Property Tax ($)",
+    "insurance": "Annual Insurance ($)",
+    "calculateButton": "Calculate Payments",
+    "summaryTitle": "Payment Summary",
+    "monthlyPayment": "Monthly Payment",
+    "totalPayment": "Total Payment Over Loan Term",
+    "totalInterest": "Total Interest Paid",
+    "amortizationTitle": "Amortization Schedule",
+    "yearLabel": "Year",
+    "balanceLabel": "Balance ($)",
+    "monthLabel": "Month {month}",
+    "remainingBalance": "Remaining Balance",
+    "interestPaid": "Interest Paid"
+  },
+  "unit": {
+    "title": "Unit Converter",
+    "description": "Convert between different units of measurement easily",
+    "form": {
+      "category": "Category",
+      "amount": "Amount",
+      "from": "From Unit",
+      "to": "To Unit",
+      "convert": "Convert Units"
+    },
+    "categories": {
+      "length": "Length",
+      "mass": "Mass",
+      "temperature": "Temperature",
+      "volume": "Volume",
+      "area": "Area"
+    },
+    "units": {
+      "meter": "Meters (m)",
+      "kilometer": "Kilometers (km)",
+      "centimeter": "Centimeters (cm)",
+      "millimeter": "Millimeters (mm)",
+      "inch": "Inches (in)",
+      "foot": "Feet (ft)",
+      "yard": "Yards (yd)",
+      "mile": "Miles (mi)",
+      "kilogram": "Kilograms (kg)",
+      "gram": "Grams (g)",
+      "milligram": "Milligrams (mg)",
+      "pound": "Pounds (lb)",
+      "ounce": "Ounces (oz)",
+      "celsius": "Celsius (°C)",
+      "fahrenheit": "Fahrenheit (°F)",
+      "kelvin": "Kelvin (K)",
+      "liter": "Liters (L)",
+      "milliliter": "Milliliters (mL)",
+      "gallon": "Gallons (gal)",
+      "quart": "Quarts (qt)",
+      "pint": "Pints (pt)",
+      "cup": "Cups",
+      "squareMeter": "Square Meters (m²)",
+      "squareKilometer": "Square Kilometers (km²)",
+      "hectare": "Hectares (ha)",
+      "acre": "Acres",
+      "squareFoot": "Square Feet (ft²)",
+      "squareInch": "Square Inches (in²)"
+    }
+  },
+  "currency": {
+    "title": "Currency Converter",
+    "description": "Convert between different currencies using real-time exchange rates",
+    "form": {
+      "amount": "Amount",
+      "fromCurrency": "From Currency",
+      "toCurrency": "To Currency"
+    },
+    "convert": "Convert Currency",
+    "loading": "Converting...",
+    "result": {
+      "title": "Conversion Result",
+      "rate": "Exchange Rate"
+    },
+    "error": {
+      "unknown": "An error occurred while converting the currency",
+      "invalidAmount": "Please enter a valid amount",
+      "invalidCurrency": "Please select a valid currency",
+      "apiError": "Could not fetch exchange rates. Please try again later."
+    }
+  },
+  "home": {
+    "title": "Calculator Hub",
+    "description": "Your all-in-one calculator solution",
+    "edit": "Get started by editing",
+    "save": "Save and see your changes instantly",
+    "deploy": "Deploy now",
+    "docs": "Read our docs",
+    "learn": "Learn",
+    "examples": "Examples",
+    "nextjs": "Go to nextjs.org"
+  }
+} 

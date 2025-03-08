@@ -1,0 +1,106 @@
+{
+  "common": {
+    "appName": "Calculator Hub",
+    "nav": {
+      "currency": "Moneda",
+      "unit": "Unidades",
+      "mortgage": "Hipoteca",
+      "bmi": "IMC"
+    },
+    "footer": {
+      "about": "Acerca de",
+      "privacy": "Privacidad",
+      "terms": "Términos",
+      "rights": "Todos los derechos reservados."
+    }
+  },
+  "home": {
+    "title": "Bienvenido a Calculator Hub",
+    "description": "Tu solución integral para todas las necesidades de cálculo",
+    "calculators": {
+      "currency": {
+        "title": "Conversor de Monedas",
+        "description": "Convierte entre diferentes monedas con tasas de cambio en tiempo real"
+      },
+      "unit": {
+        "title": "Conversor de Unidades",
+        "description": "Convierte entre diferentes unidades de medida"
+      },
+      "mortgage": {
+        "title": "Calculadora de Hipotecas",
+        "description": "Calcula pagos de hipotecas y tablas de amortización"
+      },
+      "bmi": {
+        "title": "Calculadora de IMC",
+        "description": "Calcula tu Índice de Masa Corporal y obtén información sobre tu salud"
+      }
+    }
+  },
+  "currency": {
+    "title": "Conversor de Monedas",
+    "description": "Convierte entre diferentes monedas usando tasas de cambio en tiempo real",
+    "form": {
+      "amount": "Cantidad",
+      "from": "Moneda de Origen",
+      "to": "Moneda de Destino",
+      "convert": "Convertir",
+      "converting": "Convirtiendo..."
+    },
+    "result": {
+      "title": "Cantidad Convertida"
+    }
+  },
+  "unit": {
+    "title": "Conversor de Unidades",
+    "description": "Convierte entre diferentes unidades de medida",
+    "form": {
+      "category": "Categoría",
+      "amount": "Cantidad",
+      "from": "Unidad de Origen",
+      "to": "Unidad de Destino",
+      "convert": "Convertir"
+    },
+    "result": {
+      "title": "Cantidad Convertida"
+    },
+    "categories": {
+      "length": "Longitud",
+      "mass": "Masa",
+      "temperature": "Temperatura",
+      "volume": "Volumen",
+      "area": "Área"
+    },
+    "units": {
+      "meter": "Metro",
+      "kilometer": "Kilómetro",
+      "centimeter": "Centímetro",
+      "millimeter": "Milímetro",
+      "inch": "Pulgada",
+      "foot": "Pie",
+      "yard": "Yarda",
+      "mile": "Milla",
+      "kilogram": "Kilogramo",
+      "gram": "Gramo",
+      "milligram": "Miligramo",
+      "pound": "Libra",
+      "ounce": "Onza",
+      "ton": "Tonelada Métrica",
+      "celsius": "Celsius",
+      "fahrenheit": "Fahrenheit",
+      "kelvin": "Kelvin",
+      "liter": "Litro",
+      "milliliter": "Mililitro",
+      "cubic_meter": "Metro Cúbico",
+      "gallon": "Galón (EE.UU.)",
+      "quart": "Cuarto (EE.UU.)",
+      "pint": "Pinta (EE.UU.)",
+      "cup": "Taza (EE.UU.)",
+      "square_meter": "Metro Cuadrado",
+      "square_kilometer": "Kilómetro Cuadrado",
+      "square_foot": "Pie Cuadrado",
+      "square_yard": "Yarda Cuadrada",
+      "acre": "Acre",
+      "hectare": "Hectárea"
+    }
+  }
+} 

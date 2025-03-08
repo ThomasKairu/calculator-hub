@@ -1,0 +1,106 @@
+{
+  "common": {
+    "appName": "Calculator Hub",
+    "nav": {
+      "currency": "Währung",
+      "unit": "Einheiten",
+      "mortgage": "Hypothek",
+      "bmi": "BMI"
+    },
+    "footer": {
+      "about": "Über uns",
+      "privacy": "Datenschutz",
+      "terms": "Nutzungsbedingungen",
+      "rights": "Alle Rechte vorbehalten."
+    }
+  },
+  "home": {
+    "title": "Willkommen bei Calculator Hub",
+    "description": "Ihre Komplettlösung für alle Berechnungen",
+    "calculators": {
+      "currency": {
+        "title": "Währungsrechner",
+        "description": "Konvertieren Sie zwischen verschiedenen Währungen mit Echtzeit-Wechselkursen"
+      },
+      "unit": {
+        "title": "Einheitenrechner",
+        "description": "Konvertieren Sie zwischen verschiedenen Maßeinheiten"
+      },
+      "mortgage": {
+        "title": "Hypothekenrechner",
+        "description": "Berechnen Sie Hypothekenzahlungen und Amortisationspläne"
+      },
+      "bmi": {
+        "title": "BMI-Rechner",
+        "description": "Berechnen Sie Ihren Body-Mass-Index und erhalten Sie Gesundheitsinformationen"
+      }
+    }
+  },
+  "currency": {
+    "title": "Währungsrechner",
+    "description": "Konvertieren Sie zwischen verschiedenen Währungen mit Echtzeit-Wechselkursen",
+    "form": {
+      "amount": "Betrag",
+      "from": "Von Währung",
+      "to": "Zu Währung",
+      "convert": "Umrechnen",
+      "converting": "Wird umgerechnet..."
+    },
+    "result": {
+      "title": "Umgerechneter Betrag"
+    }
+  },
+  "unit": {
+    "title": "Einheitenrechner",
+    "description": "Konvertieren Sie zwischen verschiedenen Maßeinheiten",
+    "form": {
+      "category": "Kategorie",
+      "amount": "Menge",
+      "from": "Von Einheit",
+      "to": "Zu Einheit",
+      "convert": "Umrechnen"
+    },
+    "result": {
+      "title": "Umgerechnete Menge"
+    },
+    "categories": {
+      "length": "Länge",
+      "mass": "Masse",
+      "temperature": "Temperatur",
+      "volume": "Volumen",
+      "area": "Fläche"
+    },
+    "units": {
+      "meter": "Meter",
+      "kilometer": "Kilometer",
+      "centimeter": "Zentimeter",
+      "millimeter": "Millimeter",
+      "inch": "Zoll",
+      "foot": "Fuß",
+      "yard": "Yard",
+      "mile": "Meile",
+      "kilogram": "Kilogramm",
+      "gram": "Gramm",
+      "milligram": "Milligramm",
+      "pound": "Pfund",
+      "ounce": "Unze",
+      "ton": "Metrische Tonne",
+      "celsius": "Celsius",
+      "fahrenheit": "Fahrenheit",
+      "kelvin": "Kelvin",
+      "liter": "Liter",
+      "milliliter": "Milliliter",
+      "cubic_meter": "Kubikmeter",
+      "gallon": "Gallone (US)",
+      "quart": "Quart (US)",
+      "pint": "Pint (US)",
+      "cup": "Cup (US)",
+      "square_meter": "Quadratmeter",
+      "square_kilometer": "Quadratkilometer",
+      "square_foot": "Quadratfuß",
+      "square_yard": "Quadratyard",
+      "acre": "Acre",
+      "hectare": "Hektar"
+    }
+  }
+} 

@@ -1,0 +1,56 @@
+{
+  "name": "Calculator Hub",
+  "short_name": "CalcHub",
+  "description": "Your one-stop solution for all calculation needs",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0ea5e9",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "orientation": "portrait",
+  "categories": ["utilities", "finance", "productivity"],
+  "prefer_related_applications": false,
+  "shortcuts": [
+    {
+      "name": "Currency Converter",
+      "short_name": "Currency",
+      "description": "Convert between different currencies",
+      "url": "/calculators/currency",
+      "icons": [{ "src": "/icons/currency.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Unit Converter",
+      "short_name": "Units",
+      "description": "Convert between different units",
+      "url": "/calculators/unit",
+      "icons": [{ "src": "/icons/unit.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Mortgage Calculator",
+      "short_name": "Mortgage",
+      "description": "Calculate mortgage payments",
+      "url": "/calculators/mortgage",
+      "icons": [{ "src": "/icons/mortgage.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "BMI Calculator",
+      "short_name": "BMI",
+      "description": "Calculate Body Mass Index",
+      "url": "/calculators/bmi",
+      "icons": [{ "src": "/icons/bmi.png", "sizes": "192x192" }]
+    }
+  ]
+} 

@@ -1,0 +1,106 @@
+{
+  "common": {
+    "appName": "Calculator Hub",
+    "nav": {
+      "currency": "Devise",
+      "unit": "Unités",
+      "mortgage": "Hypothèque",
+      "bmi": "IMC"
+    },
+    "footer": {
+      "about": "À propos",
+      "privacy": "Confidentialité",
+      "terms": "Conditions",
+      "rights": "Tous droits réservés."
+    }
+  },
+  "home": {
+    "title": "Bienvenue sur Calculator Hub",
+    "description": "Votre solution complète pour tous vos besoins de calcul",
+    "calculators": {
+      "currency": {
+        "title": "Convertisseur de Devises",
+        "description": "Convertissez entre différentes devises avec des taux de change en temps réel"
+      },
+      "unit": {
+        "title": "Convertisseur d'Unités",
+        "description": "Convertissez entre différentes unités de mesure"
+      },
+      "mortgage": {
+        "title": "Calculateur d'Hypothèque",
+        "description": "Calculez les paiements hypothécaires et les tableaux d'amortissement"
+      },
+      "bmi": {
+        "title": "Calculateur d'IMC",
+        "description": "Calculez votre Indice de Masse Corporelle et obtenez des informations sur votre santé"
+      }
+    }
+  },
+  "currency": {
+    "title": "Convertisseur de Devises",
+    "description": "Convertissez entre différentes devises avec des taux de change en temps réel",
+    "form": {
+      "amount": "Montant",
+      "from": "Devise de départ",
+      "to": "Devise d'arrivée",
+      "convert": "Convertir",
+      "converting": "Conversion en cours..."
+    },
+    "result": {
+      "title": "Montant Converti"
+    }
+  },
+  "unit": {
+    "title": "Convertisseur d'Unités",
+    "description": "Convertissez entre différentes unités de mesure",
+    "form": {
+      "category": "Catégorie",
+      "amount": "Quantité",
+      "from": "Unité de départ",
+      "to": "Unité d'arrivée",
+      "convert": "Convertir"
+    },
+    "result": {
+      "title": "Quantité Convertie"
+    },
+    "categories": {
+      "length": "Longueur",
+      "mass": "Masse",
+      "temperature": "Température",
+      "volume": "Volume",
+      "area": "Surface"
+    },
+    "units": {
+      "meter": "Mètre",
+      "kilometer": "Kilomètre",
+      "centimeter": "Centimètre",
+      "millimeter": "Millimètre",
+      "inch": "Pouce",
+      "foot": "Pied",
+      "yard": "Yard",
+      "mile": "Mile",
+      "kilogram": "Kilogramme",
+      "gram": "Gramme",
+      "milligram": "Milligramme",
+      "pound": "Livre",
+      "ounce": "Once",
+      "ton": "Tonne Métrique",
+      "celsius": "Celsius",
+      "fahrenheit": "Fahrenheit",
+      "kelvin": "Kelvin",
+      "liter": "Litre",
+      "milliliter": "Millilitre",
+      "cubic_meter": "Mètre Cube",
+      "gallon": "Gallon (US)",
+      "quart": "Quart (US)",
+      "pint": "Pinte (US)",
+      "cup": "Tasse (US)",
+      "square_meter": "Mètre Carré",
+      "square_kilometer": "Kilomètre Carré",
+      "square_foot": "Pied Carré",
+      "square_yard": "Yard Carré",
+      "acre": "Acre",
+      "hectare": "Hectare"
+    }
+  }
+} 

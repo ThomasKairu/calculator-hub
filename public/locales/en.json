@@ -1,0 +1,106 @@
+{
+  "common": {
+    "appName": "Calculator Hub",
+    "nav": {
+      "currency": "Currency",
+      "unit": "Unit",
+      "mortgage": "Mortgage",
+      "bmi": "BMI"
+    },
+    "footer": {
+      "about": "About",
+      "privacy": "Privacy",
+      "terms": "Terms",
+      "rights": "All rights reserved."
+    }
+  },
+  "home": {
+    "title": "Welcome to Calculator Hub",
+    "description": "Your one-stop solution for all calculation needs",
+    "calculators": {
+      "currency": {
+        "title": "Currency Converter",
+        "description": "Convert between different currencies with real-time exchange rates"
+      },
+      "unit": {
+        "title": "Unit Converter",
+        "description": "Convert between different units of measurement"
+      },
+      "mortgage": {
+        "title": "Mortgage Calculator",
+        "description": "Calculate mortgage payments and amortization schedules"
+      },
+      "bmi": {
+        "title": "BMI Calculator",
+        "description": "Calculate your Body Mass Index and get health insights"
+      }
+    }
+  },
+  "currency": {
+    "title": "Currency Converter",
+    "description": "Convert between different currencies using real-time exchange rates",
+    "form": {
+      "amount": "Amount",
+      "from": "From Currency",
+      "to": "To Currency",
+      "convert": "Convert",
+      "converting": "Converting..."
+    },
+    "result": {
+      "title": "Converted Amount"
+    }
+  },
+  "unit": {
+    "title": "Unit Converter",
+    "description": "Convert between different units of measurement",
+    "form": {
+      "category": "Category",
+      "amount": "Amount",
+      "from": "From Unit",
+      "to": "To Unit",
+      "convert": "Convert"
+    },
+    "result": {
+      "title": "Converted Amount"
+    },
+    "categories": {
+      "length": "Length",
+      "mass": "Mass",
+      "temperature": "Temperature",
+      "volume": "Volume",
+      "area": "Area"
+    },
+    "units": {
+      "meter": "Meter",
+      "kilometer": "Kilometer",
+      "centimeter": "Centimeter",
+      "millimeter": "Millimeter",
+      "inch": "Inch",
+      "foot": "Foot",
+      "yard": "Yard",
+      "mile": "Mile",
+      "kilogram": "Kilogram",
+      "gram": "Gram",
+      "milligram": "Milligram",
+      "pound": "Pound",
+      "ounce": "Ounce",
+      "ton": "Metric Ton",
+      "celsius": "Celsius",
+      "fahrenheit": "Fahrenheit",
+      "kelvin": "Kelvin",
+      "liter": "Liter",
+      "milliliter": "Milliliter",
+      "cubic_meter": "Cubic Meter",
+      "gallon": "Gallon (US)",
+      "quart": "Quart (US)",
+      "pint": "Pint (US)",
+      "cup": "Cup (US)",
+      "square_meter": "Square Meter",
+      "square_kilometer": "Square Kilometer",
+      "square_foot": "Square Foot",
+      "square_yard": "Square Yard",
+      "acre": "Acre",
+      "hectare": "Hectare"
+    }
+  }
+} 
